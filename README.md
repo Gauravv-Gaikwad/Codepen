@@ -17,3 +17,5 @@ This project is a CodePen Clone built with React.js, Material-UI, and CodeMirror
 -   Material-UI
 -   CodeMirror
 -   ContextAPI
+
+## Sample Image
